@@ -49,7 +49,7 @@ include('../asset_for_pages/header.php');
                         </div>
 
                         <div class="form-group row">
-                            <label for="username" class="col-sm-2 col-form-label">PasswordS:</label>
+                            <label for="username" class="col-sm-2 col-form-label">Password:</label>
                             <div class="col-sm-4">
                                 <input type="password" class="form-control" id="username" name="username" required>
                             </div>
