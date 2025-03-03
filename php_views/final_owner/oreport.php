@@ -3,7 +3,7 @@
 $pageTitle = "O - Report"; 
 
 // Include the header
-include('../asset_for_pages/header.php');
+include('../asset_for_pages/owner_header.php');
 
 ?>
 
