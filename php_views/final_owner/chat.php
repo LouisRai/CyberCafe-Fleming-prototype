@@ -19,8 +19,7 @@ include('../asset_for_pages/owner_header.php');
         <div id="comment-section" class="mt-3">
             <div id="comment-box" class="d-none mt-3">
                 <input type="text" class="form-control" id="new-comment" placeholder="Write your comment...">
-                <button class="btn btn-sm btn-success mt-2" onclick="addComment('user')">Post as User</button>
-                <button class="btn btn-sm btn-info mt-2" onclick="addComment('admin')">Post as Admin</button>
+                <button class="btn btn-sm btn-info mt-2" onclick="addComment('admin')">Post comment</button>
             </div>
 
             <div id="comments" class="mt-3">
